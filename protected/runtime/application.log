@@ -4990,3 +4990,21 @@ Stack trace:
 REQUEST_URI=/Projects/ukpro/BrightBaby/
 in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\HomeController.php (39)
 in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (13)
+2018/05/11 22:00:03 [warning] [application] Failed to set unsafe attribute "baby_girl_image" of "Settings".
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\SettingsController.php (153)
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (15)
+2018/05/11 22:00:03 [warning] [application] Failed to set unsafe attribute "baby_boy_image" of "Settings".
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\SettingsController.php (153)
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (15)
+2018/05/11 22:00:05 [warning] [application] Failed to set unsafe attribute "baby_girl_image" of "Settings".
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\SettingsController.php (153)
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (15)
+2018/05/11 22:00:05 [warning] [application] Failed to set unsafe attribute "baby_boy_image" of "Settings".
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\SettingsController.php (153)
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (15)
+2018/05/11 22:02:20 [warning] [application] Failed to set unsafe attribute "order_status" of "Orders".
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\HomeController.php (773)
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (15)
+2018/05/11 22:02:20 [warning] [application] Failed to set unsafe attribute "country_id" of "Orders".
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\protected\controllers\HomeController.php (773)
+in C:\xampp\htdocs\Projects\ukpro\brightbaby\index.php (15)
