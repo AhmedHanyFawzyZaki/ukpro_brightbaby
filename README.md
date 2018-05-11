@@ -1,6 +1,7 @@
 # Bright Baby:
 
 	This an e-commerce website, it is built with a custom cms which allows the admin to fully manage and control the front-end.
+	The payment gateway is barclay card.
 	
 ## Built Using:
 	Yii framework and mysql database.
